@@ -1,0 +1,37 @@
+# Local environments and secrets
+.env
+.venv/
+venv/
+
+# Python caches
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# Model checkpoints
+*.pt
+*.pth
+*.ckpt
+
+# Reconstructed text-bearing data: never commit
+data/annotation/*.json
+data/Na/*.json
+LLM/sampled/*.json
+LLM/selected_samples.json
+**/annotated/
+**/iterations/
+
+# Runtime outputs, metrics, and analyses
+**/output/
+seed_experiments/
+reproduction_runs/
+error_analysis/outputs/
+*.log
+
+# Generated figures
+figures/
+plots/
+
+# Operating-system files
+.DS_Store
+Thumbs.db

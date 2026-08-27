@@ -1,0 +1,9 @@
+torch==2.8.0
+transformers==4.56.1
+sentence-transformers==5.1.2
+seqeval==1.2.2
+openai==1.109.1
+numpy==1.26.4
+matplotlib==3.10.6
+tqdm>=4.66,<5
+scipy==1.16.2

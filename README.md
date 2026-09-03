@@ -88,7 +88,7 @@ python run_llm_r5_multi_seed.py
 python run_llm_sr_r4_multi_seed.py
 ```
 
-The iterative methods are evaluated at the reporting rounds used in the manuscript: R5 for LLM Annotation and R4 for the complete constraint-guided framework. Generated metrics and checkpoints are written beneath `seed_experiments/` and are not distributed.
+The iterative methods are evaluated at the reporting rounds used in the manuscript: R5 for LLM Annotation and R4 for the complete constraint-guided framework. 
 
 ## Rerunning LLM annotation and refinement
 

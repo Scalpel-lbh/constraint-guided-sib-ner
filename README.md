@@ -2,7 +2,7 @@
 
 This repository provides the code and annotation data for **“Constraint-Guided Refinement and Recovery of LLM-Generated Annotations for Low-Resource NER in Sodium-Ion Battery Materials Literature.”**
 
-The source abstracts are not redistributed. They were obtained through Web of Science and remain subject to the access, copyright, and licensing conditions of Web of Science and the respective publishers. The repository contains document identifiers, bibliographic metadata, normalized-text hashes, author-generated entity annotations, and the code needed to reconstruct and run the experiments after the user supplies lawfully obtained abstracts.
+The source were obtained through Web of Science and remain subject to the access, copyright, and licensing conditions of Web of Science and the respective publishers. The repository contains document identifiers, bibliographic metadata, normalized-text hashes, author-generated entity annotations, and the code needed to reconstruct and run the experiments after the user supplies lawfully obtained abstracts.
 
 
 

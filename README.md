@@ -4,7 +4,7 @@ This repository provides the code and annotation data for **“Constraint-Guided
 
 The source abstracts are not redistributed. They were obtained through Web of Science and remain subject to the access, copyright, and licensing conditions of Web of Science and the respective publishers. The repository contains document identifiers, bibliographic metadata, normalized-text hashes, author-generated entity annotations, and the code needed to reconstruct and run the experiments after the user supplies lawfully obtained abstracts.
 
-Experimental result files, trained checkpoints, error-analysis outputs, and manuscript figures are not included.
+
 
 ## Repository contents
 
